@@ -9,6 +9,8 @@
 ## Steps Taken 
 1. Data acquisition.Data was acquired the `UBOS` website,found here https://www.ubos.org/explore-statistics/
 2. Laoding and Cleaning Data
-   . Used Pandas to inspect the data
+   - Used Pandas to inspect the data
 4. Visualing Patterns
-5. Applying Machine Learning to predict the future GDP values
+   - Used matplotlib to uncover insights
+6. Applying Machine Learning to predict the future GDP values
+   - Used Linear Regression and Random Forest Regressor for machine Learning

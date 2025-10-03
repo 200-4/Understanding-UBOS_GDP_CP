@@ -7,7 +7,7 @@
 #### Now in this project we'll be exporing these features,analyzing the GDP trend overtime and how each sector contributes the countries economic growth
 
 ## Steps Taken 
-1. Data acquisition.Data was acquired the `UBOS` website
+1. Data acquisition.Data was acquired the `UBOS` website,found here https://www.ubos.org/explore-statistics/
 2. Laoding and Cleaning Data
 3. Visualing Patterns
 4. Applying Machine Learning to predict the future GDP values

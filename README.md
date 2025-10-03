@@ -1,4 +1,5 @@
 ## Undertanding Uganda's GDP and Using Machine Learning to predict GDP
+https://github.com/200-4/Understanding-UBOS_GDP_CP/blob/main/uganda%20gdp.png
 
 
 #### This project is mainly focused on analyzing the `Gross Domestic Product` of uganda's Economy for the past years from 2001 to 2025

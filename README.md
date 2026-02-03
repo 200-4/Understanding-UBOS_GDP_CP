@@ -1,4 +1,4 @@
-## Undertanding Uganda's GDP and Using Machine Learning to predict GDP
+## Undertanding Uganda's GDP Using Machine Learning to predict GDP
 ![GDP images](assets/uganda%20gdp.png)
 
 

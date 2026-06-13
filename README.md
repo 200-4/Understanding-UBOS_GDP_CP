@@ -2,13 +2,13 @@
 
 ![GDP Analysis](assets/uganda%20gdp.png)
 
-## 📋 Project Overview
+##  Project Overview
 
 This project focuses on analyzing **Uganda's Gross Domestic Product (GDP)** from 2001 to 2025, exploring economic trends across different sectors and using machine learning to forecast future GDP values.
 
 **GDP Definition:** The standard measure of value added created through the production of goods and services within a specific period of time.
 
-### 🎯 Objectives
+###  Objectives
 
 - Analyze Uganda's economic growth trends over 24+ years
 - Identify sector contributions to economic development
@@ -17,7 +17,7 @@ This project focuses on analyzing **Uganda's Gross Domestic Product (GDP)** from
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** [Uganda Bureau of Statistics (UBOS)](https://www.ubos.org/explore-statistics/)
 - **Time Period:** 2001 - 2025
@@ -26,7 +26,7 @@ This project focuses on analyzing **Uganda's Gross Domestic Product (GDP)** from
 
 ---
 
-## 🔧 Methodology
+##  Methodology
 
 ### 1. **Data Acquisition**
    - Data sourced from the official UBOS website
@@ -49,7 +49,7 @@ This project focuses on analyzing **Uganda's Gross Domestic Product (GDP)** from
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Understanding-UBOS_GDP_CP/
@@ -63,7 +63,7 @@ Understanding-UBOS_GDP_CP/
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -75,7 +75,7 @@ Understanding-UBOS_GDP_CP/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.7+
@@ -98,7 +98,7 @@ jupyter notebook "Understanding UBOS_GDP.ipynb"
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 The analysis reveals:
 - Long-term GDP growth trends in Uganda
@@ -108,7 +108,7 @@ The analysis reveals:
 
 ---
 
-## 📝 Notebook Contents
+##  Notebook Contents
 
 The main Jupyter notebook (`Understanding UBOS_GDP.ipynb`) includes:
 - Data loading and preprocessing
@@ -120,7 +120,7 @@ The main Jupyter notebook (`Understanding UBOS_GDP.ipynb`) includes:
 
 ---
 
-## 🔍 Model Performance
+##  Model Performance
 
 Both models were evaluated for accuracy in predicting future GDP values:
 - **Linear Regression:** Fast, interpretable baseline model
@@ -128,7 +128,7 @@ Both models were evaluated for accuracy in predicting future GDP values:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Incorporate additional economic indicators (inflation, exchange rates)
 - Implement advanced models (ARIMA, Neural Networks)
@@ -138,13 +138,13 @@ Both models were evaluated for accuracy in predicting future GDP values:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available for educational and research purposes.
 
 ---
 
-## 👤 Author
+##  Author
 
 **200-4**
 
@@ -152,7 +152,7 @@ For questions or suggestions, feel free to open an issue or contact the reposito
 
 ---
 
-## 📚 References
+##  References
 
 - [Uganda Bureau of Statistics](https://www.ubos.org/)
 - Scikit-learn Documentation: Machine Learning Models
